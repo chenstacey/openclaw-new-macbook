@@ -1,0 +1,25 @@
+{
+  "physiotherapy": {
+    "current_count": 1,
+    "max_before_note": 4,
+    "visits": [
+      {
+        "date": "2026-02-25",
+        "provider": "Joint Dynamics",
+        "amount": "1750",
+        "currency": "HKD",
+        "diagnosis": "Weak pelvic floor"
+      }
+    ]
+  },
+  "psychiatry_sessions": {
+    "current": 0,
+    "max_before_review": 5,
+    "visits": []
+  },
+  "specialist_visits": {
+    "current": 0,
+    "max_before_note": 4,
+    "visits": []
+  }
+}
